@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ Nahid Hasan ( 哈桑 ). Student ID: 20193290731 
 - 👀 I’m interested in Java, C++ , SQL , Python. 
 - 🌱 I’m currently learning Java, C++
-- 💞️ I’m looking to collaborate with Comprehensive practice of Software Engineering.
+- 💞️ I’m looking for collaborate with Comprehensive practice of Software Engineering.
 - 📫 How to reach me .../FB: nahid.hasan.526 
 
 <!---
